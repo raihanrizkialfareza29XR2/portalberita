@@ -1,0 +1,53 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    max-width: 100%;
+}
+
+.custom-nav {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.container {
+    margin-top: 45px;
+    margin-left: 20px;
+
+}
+
+.artikel {
+    margin-left: 20px;
+    width: 20rem;
+}
+
+.gambar {
+    max-width: 200px;
+    margin-left: 40px;
+}
+
+.tekshitam {
+    background-color: #000;
+    color: #FFF;
+    padding: 10px;
+}
+
+.fitur {
+    margin-top: 20px;
+}
+.tutorial {
+    margin-top: 20px;
+}
+
+.sidekat {
+    margin-top: 10px;
+}
+
+.newart {
+    margin-top: 10px;
+}
